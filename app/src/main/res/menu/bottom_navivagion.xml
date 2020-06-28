@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/shopping_list"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="Shopping List" />
+    <item android:id="@+id/menu"
+        android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+        android:title="Menu"/>
+    <item android:id="@+id/recipes"
+        android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+        android:title="Recipes"/>
+
+</menu>
